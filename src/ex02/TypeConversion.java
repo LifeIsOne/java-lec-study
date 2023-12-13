@@ -1,4 +1,4 @@
-package ExamplePowerJAVA;
+package ex02;
 
 public class TypeConversion {
     public static void main(String args[]) {

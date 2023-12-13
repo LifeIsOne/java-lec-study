@@ -6,6 +6,6 @@ public class ConstEx01 {
     int num = 1;    // 변수
     final int sum = 10; // 상수 (변경 불가능)
     num = 2;
-    sum = 20;
+    // sum = 20;
     }
 }
