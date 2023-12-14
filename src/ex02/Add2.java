@@ -1,10 +1,10 @@
 package ex02;
 
-import java.util.Scanner;
+import java.util.Scanner;   // 입력하지 않아도 main에 Scanner를 입력하면 스니펫
 
 public class Add2 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);    // heap에 할당
+        Scanner sc = new Scanner(System.in);
         int x, y, sum;
 
         System.out.print("Enter the first number : ");
