@@ -1,5 +1,5 @@
 package ex03.test;
-// 비교해서 크면 스왑하기
+
 public class BubbleTest04 {
     public static void main(String[] args) {
         int[] arr = { 5, 8, 2, 4, 3};
@@ -18,6 +18,5 @@ public class BubbleTest04 {
         for (int i = 0; i < N; i++) {
             System.out.println(arr[i]);
         }
-
     }
 }
