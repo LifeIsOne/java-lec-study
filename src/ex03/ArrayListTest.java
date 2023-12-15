@@ -11,11 +11,9 @@ public class ArrayListTest {
         list.add("순신");
         list.add("지영");
 
-        System.out.println(list.get(3));
-
-        list.remove(3);             //삭제하기
-
-        System.out.println(list.get(3));
-
+        for (String obj : list)
+            System.out.print(obj + " ");
+        System.out.println();
+        System.out.println(list);
     }
 }
