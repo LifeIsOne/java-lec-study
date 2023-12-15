@@ -1,4 +1,4 @@
-package ex04;
+package ex01.ex04;
 
 class Person2{
     int age = 10;
