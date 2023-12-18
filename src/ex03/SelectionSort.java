@@ -12,7 +12,6 @@ public class SelectionSort {
                 if (arr[min] > arr[i])
                     min = i;
             }
-            // min 값 앞으로{
             if ((rep) != min) {
                 int temp = arr[rep];
                 arr[rep] = arr[min];
