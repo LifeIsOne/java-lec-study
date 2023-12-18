@@ -1,8 +1,8 @@
-package ex03.test;
+package ex03.BubbleSort;
 
 import java.util.Arrays;
 
-public class BublbleTest01 {
+public class BubbleTest01 {
     public static void main(String[] args) {
         int[] arr = { 5, 8, 2, 4, 3};
         int temp;

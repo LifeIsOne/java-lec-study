@@ -1,4 +1,4 @@
-package ex03.test;
+package ex03.BubbleSort;
 
 public class BubbleTest02 {
     public static void main(String[] args) {

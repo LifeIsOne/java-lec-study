@@ -1,4 +1,4 @@
-package ex03.test;
+package ex03.BubbleSort;
 // 비교해서 크면 스왑하기
 public class BubbleTest05 {
     public static void main(String[] args) {

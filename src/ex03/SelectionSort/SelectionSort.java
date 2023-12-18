@@ -1,4 +1,4 @@
-package ex03;
+package ex03.SelectionSort;
 
 public class SelectionSort {
     public static void main(String[] args) {
