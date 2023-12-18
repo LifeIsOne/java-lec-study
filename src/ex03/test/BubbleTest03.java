@@ -1,4 +1,4 @@
-package ex03.BubbleSort;
+package ex03.test;
 // 스왑하기, temp
 public class BubbleTest03 {
     public static void main(String[] args) {
