@@ -1,4 +1,4 @@
-package ex03.BubbleSort;
+package ex03.test;
 
 import java.util.Arrays;
 
