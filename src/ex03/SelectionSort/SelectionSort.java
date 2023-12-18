@@ -20,7 +20,5 @@ public class SelectionSort {
         }
         for (int i = 0; i < N; i++)
             System.out.println(arr[i]);
-        for (int v : arr)
-            System.out.print(v + " ");
     }
 }
