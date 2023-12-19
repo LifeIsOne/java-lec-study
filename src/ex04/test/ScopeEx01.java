@@ -17,5 +17,8 @@ public class ScopeEx01 {
         System.out.println("1");
         m1();
         System.out.println("2");
+        ScopeEx01 sc = new ScopeEx01();     // (heap) static이 선언 안된 모든 데이터를 heap에 올린다.
+        System.out.println(sc.n1);
+        sc.m2();
     }
 }
