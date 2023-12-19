@@ -8,7 +8,6 @@ public class MethodEx03 {
         System.out.println("m4 : " + n1);
         System.out.println("m4 : " + n2);
     }
-
     public static void main(String[] args) {
         m3(1);
         m4(1,2);        // 인수(Argument) 메서드의 입력 값

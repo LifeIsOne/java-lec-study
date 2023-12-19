@@ -1,7 +1,6 @@
 package ex04;
 
 public class MethodEx01 {
-
     static void  m1(){                      // void : 반환할 게 없다.
         System.out.println("m1");
     }
@@ -9,7 +8,6 @@ public class MethodEx01 {
         System.out.println("m2");
         return "m2";                        // return - : 메서드 종료
     }
-
     public static void main(String[] args) {
         MethodEx01.m1();
         m1();
