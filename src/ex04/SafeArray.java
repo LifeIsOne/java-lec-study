@@ -23,4 +23,3 @@ public class SafeArray {
             System.out.println("잘못된 인덱스 " + index);
     }
 }
-
