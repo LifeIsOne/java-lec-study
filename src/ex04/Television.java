@@ -8,7 +8,7 @@ public class Television {
     public static void main(String[] args) {
         Television myTv = new Television();
         myTv.channel = 7;
-        myTv.volume = 7;
+        myTv.volume = 10;
         myTv.onOff = true;
 
         Television yourTv = new Television();

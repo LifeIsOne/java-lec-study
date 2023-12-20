@@ -1,9 +1,7 @@
 package ex04;
 
-import javax.swing.*;
-
 class Box{
-    int width;
+    int width, depth;
     int length;
     int height;
     double getVoume() {         return (double) width * height * length; }
@@ -11,8 +9,7 @@ class Box{
 
 public class BoxTest {
     public static void main(String[] args) {
-        Box b;
-        b = new Box();
+        Box b = new Box();
         b.width = 20;
         b.length = 20;
         b.height = 30;
@@ -22,3 +19,4 @@ public class BoxTest {
 
     }
 }
+
