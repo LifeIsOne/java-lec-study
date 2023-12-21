@@ -4,7 +4,14 @@ public class Account {
     private final int id;
     private long balance;
     private int userId;
+
     // 메서드에서는 하나의 책임만 가지자.
+    public boolean 잔액부족(long amount){
+        if (balance < amount)
+            return true;
+        return false;
+    }
+
     public void 출금(long amount){
         this.balance = this.balance - amount;
     }
