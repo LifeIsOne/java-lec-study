@@ -1,13 +1,13 @@
 package ex06;
 
-class Animal {
+class Animal2 {
     int age;
     void eat(){
         System.out.println("먹고 있음...");
     }
 }
 
-class Dog extends Animal{
+class Dog extends Animal2{
     void bark(){
         System.out.println("짖고 있음...");
     }

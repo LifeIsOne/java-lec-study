@@ -27,7 +27,7 @@ class Circle extends Shape{
 public class CircleTest {
     public static void main(String[] args) {
         Circle circle = new Circle(10);
-//        circle.getArea();
-        System.out.println(circle.getArea());
+        System.out.println("원의 중심 : (" + circle.x +  "," + circle.y + ")");
+        System.out.println("원의 면적 : " + circle.getArea());
     }
 }
