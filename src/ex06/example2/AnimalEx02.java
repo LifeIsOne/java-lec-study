@@ -1,7 +1,7 @@
 package ex06.example2;
 
 class Animal{
-    void speak(){
+    void speak(){                       // 오버라이딩 된다
         System.out.println("멍멍");
     }
     void run(){
