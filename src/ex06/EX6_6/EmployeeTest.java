@@ -1,4 +1,4 @@
-package ex06.example6_6;
+package ex06.EX6_6;
 
 class Date {
     private int year, month, date;
