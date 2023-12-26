@@ -1,4 +1,4 @@
-package ex07;
+package ex07.ex07_1;
 
 abstract class Shape {
     int x, y;
