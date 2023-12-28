@@ -20,7 +20,7 @@ public class StringEx01 {
     }
 
     public static String decoding(String encodingData) {
-        de
+
 
         return "AABBBCCCCDDDDD";
     }
