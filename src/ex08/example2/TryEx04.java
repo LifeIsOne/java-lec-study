@@ -8,8 +8,8 @@ class Repository2 {
         if (id.length() < 4) {
             throw new RuntimeException("DB : id길이가 너무 짧습니다. (4자 이상)");
         }
-        if (pw.length() > 20) {
-            throw new RuntimeException("DB : pw길이가 너무 길어요. (20자 이하)");
+        if (pw.length() > 10) {
+            throw new RuntimeException("DB : pw길이가 너무 길어요. (10자 이하)");
         }
     }
 }
@@ -32,7 +32,7 @@ public class TryEx04 {
         Controller2 con = new Controller2();
         try {
             System.out.println("회원가입 성공");
-            con.join("ssra", "1234123412341234123412341234");
+            con.join("ssra", "1234567890");
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }

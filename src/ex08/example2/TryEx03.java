@@ -8,7 +8,7 @@ class Repository {
         if (id.length() < 4) {
             return 2;
         }
-        if (pw.length() > 50) {
+        if (pw.length() > 10) {
             return 3;
         }
         return 1;
@@ -41,7 +41,7 @@ class Controller {
 public class TryEx03 {
     public static void main(String[] args) {
         Controller con = new Controller();
-        String message = con.join("ssar", "123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789");
+        String message = con.join("ssa", "1234567890");
         System.out.println(message);
     }
 }
