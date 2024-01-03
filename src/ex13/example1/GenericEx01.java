@@ -2,7 +2,7 @@ package ex13.example1;
 
 class Box<T> {
     T data;
-}77
+}
 
 public class GenericEx01 {
     public static void main(String[] args) {
