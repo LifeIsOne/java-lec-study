@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f55950ff-0afb-4fd4-ae9b-9473d8dbfe2e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/java_lec.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01/VarEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01/ex04/MemEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01/ex04/MemEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02/Add2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02/AreaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02/BitOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02/CastEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02/CompOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02/ConstEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02/FtoC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02/FtoC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02/FtoC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02/FtoC3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02/IdentityEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02/InputString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02/TypeConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02/decimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/ArrayEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/ArrayTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/ArrayTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/Averager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/BreakContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/BubbleEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/Divisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/FoorExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/GetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/Grading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/GugudanEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/GugudanEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/GugudanEx03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/Lotto/LottoEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/Lotto/LottoEx011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/Lotto/LottoEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/Lotto/LottoEx03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/Lotto/LottoGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/MathRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/Nested.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/NestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/NestedWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/RaggedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/RockPaperScissor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/SelectionSort/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/TheaterSeats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/UpAndDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/WelcomeLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/test/BinaryTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/test/BinaryTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/test/BinaryTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/test/BubbleTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/test/BubbleTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/test/BubbleTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/test/BubbleTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/test/BubbleTest05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/test/BubbleTest06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/BoxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/Boxteat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/CalculatorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/DeskLamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/DeskLampTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/HeapEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/MethodEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/MethodEx03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/MyMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/OOPEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/OOPEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/OverLoadEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/PersonEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/PizzaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/SafeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/SafeArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/TelevisionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/example/BankApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/example/BankService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/example/model/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04/example/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex05/ArrayArgumentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex05/MyMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex05/MyMathTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex05/PizzaNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex05/PizzaNumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex05/PizzaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex05/SingleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex05/SingleTonEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex05/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/AnimalEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/DogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/EX6_6/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/ElectricCarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/ShapeTest/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/example2/AnimalEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/example3/Dark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/example3/Dragoon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/example3/River.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/example3/StarcraftApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/example3/Zealot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/example4/Dark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/example4/Dragoon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/example4/Protoss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/example4/River.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/example4/StarcraftApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/example4/Zealot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/example5/AliceApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/example5/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/example6/CastingEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/example7/Burger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/example7/BurgerSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/example7/Coke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/example7/LotteApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/example7/ShrimpBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06/whatThe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex07/ex07_1/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex07/ex07_2/TestInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex07/example/InterEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex07/example/InterEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex07/example/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex08/DivideByZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex08/ObEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex08/example/StringEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex08/example/StringEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex08/example/StringEx01A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex08/example/StringEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex08/example/StringEx03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex08/example/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex08/example2/TryEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex08/example2/TryEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex08/example2/TryEx03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex08/example2/TryEx04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex08/example2/TryEx05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex13/ArrayListEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex13/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex13/ArrayListTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex13/BABO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex13/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex13/DeadEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex13/EnglishDic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex13/FindDupplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex13/LinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex13/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex13/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex13/SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex13/Shuffle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex13/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex13/SortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex13/VectorExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex13/VectorExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex13/example1/GenericEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex13/example2/GenericEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex13/example3/GenericEx03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex13/example4/GenericEx04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex13/example5/GenericEx05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex13/example5/VectorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex14/example1/CopyEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex14/example1/CopyEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex14/example1/CopyEx03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex14/example1/CopyEx04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex16/CountDownTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex16/LambdaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex16/MyThreadTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex16/MyThreadTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex16/TestSynchro/TestSynchro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex16/TestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex16/babo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex16/example1/ThreadEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex16/example2/ThreadEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex16/example3/ThreadEx03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex01/VarEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex01/ex04/MemEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex01/ex04/MemEx02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex01/ex04/Person1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex01/ex04/Person2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex02/Add2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex02/AreaTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex02/BitOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex02/CastEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex02/CompOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex02/ConstEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex02/FtoC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex02/FtoC1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex02/FtoC2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex02/FtoC3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex02/IdentityEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex02/InputString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex02/Light.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex02/Pizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex02/TypeConversion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex02/decimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/ArrayEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/ArrayListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/ArrayTest01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/ArrayTest03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/Averager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/BreakContinue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/BubbleEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/Divisor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/EvenOdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/Factorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/FoorExample1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/GetSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/Grading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/GugudanEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/GugudanEx02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/GugudanEx03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/Lotto/LottoEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/Lotto/LottoEx011.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/Lotto/LottoEx02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/Lotto/LottoEx03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/Lotto/LottoGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/MathRandom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/Nested.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/NestedLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/NestedWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/RaggedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/RockPaperScissor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/SelectionSort/SelectionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/Sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/TheaterSeats.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/UpAndDown.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/WelcomeLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/test/BinaryTest01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/test/BinaryTest02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/test/BinaryTest03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/test/BubbleTest01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/test/BubbleTest02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/test/BubbleTest03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/test/BubbleTest04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/test/BubbleTest05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex03/test/BubbleTest06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/AccountTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/BoxTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/Boxteat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/CalculatorApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/CircleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/DeskLamp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/DeskLampTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/HeapEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/MethodEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/MethodEx03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/MyFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/MyMath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/OOPEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/OOPEx02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/OverLoadEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/People.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/Person3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/Person4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/PersonEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/Pizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/PizzaTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/SafeArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/SafeArrayTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/Television.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/TelevisionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/example/BankApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/example/BankService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/example/model/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex04/example/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex05/ArrayArgumentTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex05/MyMath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex05/MyMathTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex05/Pizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex05/PizzaNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex05/PizzaNumTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex05/PizzaTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex05/President.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex05/Single.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex05/SingleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex05/SingleTonEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex05/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/Animal2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/AnimalEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/CircleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/DogTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/EX6_6/Date.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/EX6_6/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/EX6_6/EmployeeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/ElectricCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/ElectricCarTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/EmployeeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/Person2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/ShapeTest/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/ShapeTest/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/ShapeTest/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/ShapeTest/ShapeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/ShapeTest/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/StudentTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example2/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example2/AnimalEx02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example2/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example3/Dark.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example3/Dragoon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example3/River.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example3/StarcraftApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example3/Zealot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example4/Dark.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example4/Dragoon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example4/Protoss.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example4/River.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example4/StarcraftApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example4/Zealot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example5/AliceApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example5/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example5/Manager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example5/Programmer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example5/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example5/모자장수.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example5/앨리스.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example5/왕.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example5/왕비.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example5/증인.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example5/토끼.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example5/판사.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example6/CastingEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example6/Dragoon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example6/Protoss.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example6/Zealot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example7/Burger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example7/BurgerSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example7/Coke.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example7/LotteApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/example7/ShrimpBurger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex06/whatThe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex07/ex07_1/AbstractTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex07/ex07_1/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex07/ex07_1/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex07/ex07_1/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex07/ex07_2/RemoteControl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex07/ex07_2/Television.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex07/ex07_2/TestInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex07/example/CommonRC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex07/example/EventListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex07/example/InterEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex07/example/InterEx02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex07/example/LgRC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex07/example/MyApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex07/example/MyFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex07/example/RC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex07/example/SamsungRC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex08/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex08/DivideByZero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex08/ObEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex08/example/ContractInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex08/example/StringEncoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex08/example/StringEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex08/example/StringEx01A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex08/example/StringEx02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex08/example/StringEx03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex08/example/StringTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex08/example2/Cal2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex08/example2/Cal3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex08/example2/Cal4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex08/example2/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex08/example2/Controller2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex08/example2/Repository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex08/example2/Repository2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex08/example2/TryEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex08/example2/TryEx02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex08/example2/TryEx03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex08/example2/TryEx04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex08/example2/TryEx05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/ArrayListEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/ArrayListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/ArrayListTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/DeadEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/EnglishDic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/FindDupplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/LinkedListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/MapTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/Monster.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/Search.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/SetTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/Shuffle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/Sort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/SortTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/VectorExample1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/VectorExample2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/example1/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/example1/GenericEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/example2/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/example2/GenericEx02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/example3/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/example3/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/example3/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/example3/GenericEx03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/example4/GenericEx04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/example4/Model.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/example4/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/example5/GenericEx05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/example5/Model.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/example5/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex13/example5/VectorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex16/CountDownTest$MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex16/CountDownTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex16/LambdaTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex16/MyRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex16/MyRunnable3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex16/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex16/MyThreadTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex16/MyThreadTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex16/TestSynchro/MyThread1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex16/TestSynchro/MyThread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex16/TestSynchro/Printer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex16/TestSynchro/TestSynchro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex16/TestThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex16/example1/ThreadEx01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex16/example2/MyFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex16/example2/ThreadEx02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex16/example2/화가.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/ex16/example3/ThreadEx03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/review/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/study/review/Review.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srsd/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srsd/srsd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2aX8loBl7Ym6dwAIZLmrJ6eNXp9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AreaTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Merging master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/workspace/java_lec"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="java_lec" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="java_lec" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-8336523bb0d9-657b72ed" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f55950ff-0afb-4fd4-ae9b-9473d8dbfe2e" name="Changes" comment="" />
+      <created>1704453716715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704453716715</updated>
+    </task>
+    <servers />
+  </component>
+</project>

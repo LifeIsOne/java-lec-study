@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/java_lec.iml" filepath="$PROJECT_DIR$/java_lec.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/srsd/srsd.iml" filepath="$PROJECT_DIR$/srsd/srsd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study.iml" filepath="$PROJECT_DIR$/study.iml" />
+>>>>>>> d922d751874bb668df93811942a9bc6359889871
     </modules>
   </component>
 </project>
