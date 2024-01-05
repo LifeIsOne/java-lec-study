@@ -16,11 +16,12 @@ public class SetTest {
         set.add("Cheese");
         set.add("Ham");
         set.add("Tomato");
+        set.add("Tomato");
 
         System.out.println(set);
 
         if (set.contains("Tomato")) {       // contain() : 데이터가 있는지 없는지 여부를 반환
-            System.out.println("토마토 포함돼 있음");
+            System.out.println("토마토가 포함돼 있습니다.");
         }
     }
 }
