@@ -6,9 +6,9 @@ import java.util.TreeSet;
 
 public class SetTest {
     public static void main(String[] args) {
-        HashSet<String> set = new HashSet<>();                  // 순서가 일정하지 않다
+//        HashSet<String> set = new HashSet<>();                  // 순서가 일정하지 않다
 //        LinkedHashSet<String> set = new LinkedHashSet<>();    // 입력 순서
-//        TreeSet<String> set = new TreeSet<>();                // 알파벳 순서
+        TreeSet<String> set = new TreeSet<>();                // 알파벳 순서
 
         set.add("Milk");
         set.add("Bread");
