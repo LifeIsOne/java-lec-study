@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5dfddfbf-2822-4fb2-8483-c96d887d6268" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ex15/CopuyLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex15/StreamEx05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +39,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArrayListTest.executor": "Run",
+    "Application.CopuyLines.executor": "Run",
     "Application.EnglishDic.executor": "Run",
     "Application.FindDupplication.executor": "Run",
     "Application.LinkedListTest.executor": "Run",
@@ -45,6 +48,9 @@
     "Application.StreamEx02.executor": "Run",
     "Application.StreamEx03.executor": "Run",
     "Application.StreamEx04.executor": "Run",
+    "Application.StreamEx05.executor": "Run",
+    "Application.StreamEx051.executor": "Run",
+    "Application.StreamEx06.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
