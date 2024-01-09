@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5dfddfbf-2822-4fb2-8483-c96d887d6268" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ex15/StreamEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex15/StreamEx02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex15/StreamEx03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex15/StreamEx04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
