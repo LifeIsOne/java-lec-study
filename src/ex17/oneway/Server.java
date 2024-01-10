@@ -31,6 +31,5 @@ public class Server {
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
-
     }
 }
