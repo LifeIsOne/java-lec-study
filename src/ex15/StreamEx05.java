@@ -1,3 +1,5 @@
+package ex15;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
@@ -11,7 +13,8 @@ public class StreamEx05 {
     public static void main(String[] args) {
         try {
             //BufferedReader br = new BufferedReader(new FileReader("D:\\workspace\\java_lec\\study\\src\\ex15\\hello.txt"));
-            BufferedReader br = new BufferedReader(new FileReader("src\\ex15\\hello.txt"));
+            BufferedReader br = new BufferedReader(new FileReader("input.txt"));
+
 
             String line = br.readLine();
             System.out.println(line);
@@ -24,5 +27,6 @@ public class StreamEx05 {
         } catch (Exception e) {
             e.printStackTrace();
         }
+
     }
 }
