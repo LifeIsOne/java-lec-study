@@ -11,10 +11,15 @@ public class Client {
     public static void main(String[] args) {
 
         try {
-            Socket socket = new Socket("localhost", 30000);
+            // 1. 소켓, 버퍼 만들기
+            Socket socket = new Socket("192.", 30000);
             Scanner sc = new Scanner(System.in);
             PrintWriter pw = new PrintWriter(socket.getOutputStream(), true);
+            BufferedReader br = new BufferedReader(
+                    new InputStreamReader(socket.getInputStream())
+            );
 
+            // 2. 메세지 전송 스레드
             new Thread(() -> {
                 while (true){
                     String keyboardMsg = sc.nextLine();
@@ -22,10 +27,7 @@ public class Client {
                 }
             }).start();
 
-            BufferedReader br = new BufferedReader(
-                    new InputStreamReader(socket.getInputStream())
-            );
-
+            // 3. 메시지 받기 스레드
             new Thread(() -> {
                 while (true) {
                     try {

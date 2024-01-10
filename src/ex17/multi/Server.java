@@ -11,14 +11,24 @@ import java.util.Scanner;
 public class Server {
     public static void main(String[] args) {
         try {
+            // 1. 소켓, 버퍼 만들기
             ServerSocket serverSocket = new ServerSocket(30000);
             Scanner sc = new Scanner(System.in);
             Socket socket = serverSocket.accept();  // accept 대기 중
             System.out.println("Client connect");
-
+            PrintWriter pw = new PrintWriter(socket.getOutputStream(), true);
             BufferedReader br = new BufferedReader(
                     new InputStreamReader(socket.getInputStream())
             );
+
+            // 2. 메세지 전송 스레드
+            new Thread(() -> {
+                while (true){
+                    String keyboardMsg = sc.nextLine();
+                    pw.println(keyboardMsg);
+                }
+            }).start();
+
             new Thread(() -> {
                 while (true) {
                     try {
@@ -30,14 +40,7 @@ public class Server {
                 }
             }).start();
 
-            PrintWriter pw = new PrintWriter(socket.getOutputStream(), true);
 
-            new Thread(() -> {
-                while (true){
-                    String keyboardMsg = sc.nextLine();
-                    pw.println(keyboardMsg);
-                }
-            }).start();
 
 
         } catch (IOException e) {

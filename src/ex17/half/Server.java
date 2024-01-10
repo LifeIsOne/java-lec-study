@@ -1,6 +1,5 @@
 package ex17.half;
 
-import java.awt.image.DataBufferDouble;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -30,7 +29,7 @@ public class Server {
             if (requestMsg.equals("1")){
                 pw.println("영화");
             } else if (requestMsg.equals("2")) {
-                pw.println("영화");
+                pw.println("드라마");
             }else{
                 pw.println("프로토콜을 확인하세요 : 1은 영화, 2는 드라마");
             }

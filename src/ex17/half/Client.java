@@ -13,7 +13,7 @@ public class Client {
 
             PrintWriter pw = new PrintWriter(socket.getOutputStream(), true);
 
-            pw.println("e+");
+            pw.println("2");
 
             BufferedReader br = new BufferedReader(
                     new InputStreamReader(socket.getInputStream())
