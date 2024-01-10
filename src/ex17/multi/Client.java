@@ -1,6 +1,8 @@
 package ex17.multi;
 
+import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.Scanner;
@@ -15,12 +17,25 @@ public class Client {
 
             new Thread(() -> {
                 while (true){
-                    System.out.print("Server에 전송할 메세지 : ");
                     String keyboardMsg = sc.nextLine();
                     pw.println(keyboardMsg);
                 }
-            });
+            }).start();
 
+            BufferedReader br = new BufferedReader(
+                    new InputStreamReader(socket.getInputStream())
+            );
+
+            new Thread(() -> {
+                while (true) {
+                    try {
+                        String requestMsg = br.readLine();
+                        System.out.println("Server로 부터 받은 메세지 : " + requestMsg);
+                    } catch (IOException e) {
+                        throw new RuntimeException(e);
+                    }
+                }
+            }).start();
 
         } catch (IOException e) {
             throw new RuntimeException(e);
