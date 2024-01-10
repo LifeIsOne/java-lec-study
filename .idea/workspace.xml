@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5dfddfbf-2822-4fb2-8483-c96d887d6268" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ex17/half/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex17/half/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex17/half/protocol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex17/multi/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex17/multi/Client2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex17/multi/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex17/multi/protocol" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex02/ConstEx01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex02/ConstEx01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex15/StreamEx05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex15/StreamEx05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +61,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/workspace/java_lec/src/ex17/multi"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\java_lec\src\ex17\multi" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -82,5 +87,16 @@
       <updated>1704455172475</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex17/oneway/Client.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
