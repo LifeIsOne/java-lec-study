@@ -12,7 +12,7 @@ public class Client {
 
         try {
             // 1. 소켓, 버퍼 만들기
-            Socket socket = new Socket("192.", 30000);
+            Socket socket = new Socket("localhost", 30000);
             Scanner sc = new Scanner(System.in);
             PrintWriter pw = new PrintWriter(socket.getOutputStream(), true);
             BufferedReader br = new BufferedReader(

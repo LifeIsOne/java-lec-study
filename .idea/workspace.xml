@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5dfddfbf-2822-4fb2-8483-c96d887d6268" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ex17/host2ip.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex17/half/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex17/half/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex17/half/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex17/half/Server.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex17/multi/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex17/multi/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex17/multi/Client2.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex17/multi/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex17/multi/Server.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +47,7 @@
     "Application.CopyLines.executor": "Run",
     "Application.EnglishDic.executor": "Run",
     "Application.FindDupplication.executor": "Run",
+    "Application.HostToIP.executor": "Run",
     "Application.LinkedListTest.executor": "Run",
     "Application.Server.executor": "Run",
     "Application.SetTest.executor": "Run",
@@ -57,6 +58,7 @@
     "Application.StreamEx05.executor": "Run",
     "Application.StreamEx051.executor": "Run",
     "Application.StreamEx06.executor": "Run",
+    "Application.host2ip.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",

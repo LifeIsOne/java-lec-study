@@ -40,9 +40,6 @@ public class Server {
                 }
             }).start();
 
-
-
-
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
